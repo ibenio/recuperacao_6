@@ -1,0 +1,47 @@
+
+#cabecario {
+    text-align: center;
+    background: linear-gradient(127deg, #742322, #8f4500);
+    padding-bottom: 65px;
+    border-radius: 32px;
+
+}
+
+ 
+#sub_t {
+    font-size: 26px;
+    color: red;
+    margin-top: 10px;
+}
+
+#titulo {
+    font-size: 36px;
+}
+
+#principal {
+    text-align: center;
+
+
+}
+
+#imagens {
+    width: 825px;
+    margin-top: 115px;
+    margin-bottom: 115px ;
+}
+
+
+#final {
+    text-align: center;
+    background: linear-gradient(127deg, #742322, #8f4500);
+    padding: 45px;
+    color: black;
+    border-radius: 32px;
+
+}
+
+#final_1 {
+    margin-top: 10px;
+    font-size: 26px;
+    color: black;
+}
